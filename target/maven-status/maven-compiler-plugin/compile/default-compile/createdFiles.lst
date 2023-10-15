@@ -1,0 +1,10 @@
+br/Utils/Utils.class
+br/com/henriquemartelini/todolist/TodolistApplication.class
+br/com/henriquemartelini/todolist/task/ITaskRepository.class
+br/com/henriquemartelini/todolist/task/TaskController.class
+br/com/henriquemartelini/todolist/erros/ExceptionHandlerController.class
+br/com/henriquemartelini/todolist/filter/FilterTaskAuth.class
+br/com/henriquemartelini/todolist/user/UserModel.class
+br/com/henriquemartelini/todolist/user/UserController.class
+br/com/henriquemartelini/todolist/user/IUserRepository.class
+br/com/henriquemartelini/todolist/task/TaskModel.class

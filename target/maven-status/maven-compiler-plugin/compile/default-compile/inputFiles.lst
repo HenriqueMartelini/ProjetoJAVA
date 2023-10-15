@@ -1,0 +1,10 @@
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/user/UserController.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/Utils/Utils.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/task/TaskController.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/user/UserModel.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/TodolistApplication.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/task/TaskModel.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/task/ITaskRepository.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/filter/FilterTaskAuth.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/user/IUserRepository.java
+/home/horus/Desktop/ProjetoJAVA/todolist/todolist/src/main/java/br/com/henriquemartelini/todolist/erros/ExceptionHandlerController.java
